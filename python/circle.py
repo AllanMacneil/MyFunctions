@@ -4,7 +4,7 @@ def circle_area(radius=1):
     return math.pi*radius**2
 
 def circle_circunference(radius=1):
-    pass
+    return 2*math.pi*radius
 
 def circle_length_arc(radius, angle):
     pass
